@@ -1,0 +1,3 @@
+[submodule "modules/googlemock"]
+	path = modules/googlemock
+	url = https://chromium.googlesource.com/external/googlemock

@@ -1,0 +1,4 @@
+*.pro           text
+*.pri           text
+*.md            text
+.gitattributes  text
