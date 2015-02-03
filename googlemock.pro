@@ -5,6 +5,7 @@ QMAKE_CXXFLAGS += -w
 QT -= core gui
 
 !android {
+    QMAKE_CXX=ccache g++
     CONFIG += staticlib
 }
 
